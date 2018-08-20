@@ -1,0 +1,21 @@
+body{
+    background-color: navy;
+    font-size: 2em;
+    color: palevioletred;
+    text-align: center;
+}
+p{
+    color: lightgreen;
+    text-align: center;
+}
+h1{
+    background-color: palegoldenrod;
+    color: lightsalmon;
+    font-size: 3em;
+    text-align: center;
+    height: 50%;
+    border-radius: 20px;
+}
+i{
+    color: #FFFFFF;
+}
